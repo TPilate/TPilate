@@ -7,7 +7,7 @@
 Hey ! I'm currently studying in the WebAcademie of epitech to become a full stack web developper, working through different project. You will find most of the project i did here, so feel free to take a look at what i might have done by the past !. I'm aspiring to be a Front-End creative developper because i just love the vibe of it. I'm just trynna become better so if you have any recommandations feel free to contact me on linkedin or if you just wanna connect.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tom-pilate-2b49091b7/" target="_blank">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/tom-pilate-2b49091b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
